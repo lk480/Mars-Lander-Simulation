@@ -1,0 +1,200 @@
+make all -f "/Users/lohithkonathala1/git/IB-Mars-Lander-cpp" --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-apple-darwin11.3.0
+
+# Make data base, printed on Sat Aug 28 17:37:02 2021
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# automatic
+@F = $(notdir $@)
+# makefile
+CURDIR := /Users/lohithkonathala1/git/IB-Mars-Lander-cpp
+# makefile
+SHELL = /bin/sh
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
+# environment
+_ = /usr/bin/make
+# makefile (from `/Users/lohithkonathala1/git/IB-Mars-Lander-cpp', line 1)
+MAKEFILE_LIST :=  /Users/lohithkonathala1/git/IB-Mars-Lander-cpp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+__CFBundleIdentifier = com.microsoft.VSCode
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/jh/frwjqtg16wd2603nychjg8x00000gp/T/vscode-ipc-1c0faafe-317f-4d5a-9f54-239ba05c4d6c.sock
+# environment
+VSCODE_CWD = /
+# environment
+PATH = /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Library/Apple/usr/bin
+# environment
+VSCODE_LOG_STACK = false
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
+# environment
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.AGgcDNykld/Listeners
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+PWD = /Users/lohithkonathala1/git/IB-Mars-Lander-cpp
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+HOME = /Users/lohithkonathala1
+# default
+MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
+# environment
+VSCODE_CODE_CACHE_PATH = /Users/lohithkonathala1/Library/Application Support/Code/CachedData/379476f0e13988d90fab105c5c19e7abc8b1dea8
+# environment
+LOGNAME = Lohith
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+XPC_FLAGS = 0x0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 1
+# default
+MAKE_VERSION := 3.81
+# environment
+USER = Lohith
+# makefile
+.DEFAULT_GOAL := 
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# default
+MAKE_COMMAND := /Applications/Xcode.app/Contents/Developer/usr/bin/make
+# default
+.VARIABLES := 
+# environment
+TMPDIR = /var/folders/jh/frwjqtg16wd2603nychjg8x00000gp/T/
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /Users/lohithkonathala1/Library/Application Support/Code/1.59.0-main.sock
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.43487698.43487704
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+__CF_USER_TEXT_ENCODING = 0x1F6:0:2
+# environment
+COMMAND_MODE = unix2003
+# default
+MAKEFILES := 
+# environment
+VSCODE_BROWSER_CODE_LOADING = bypassHeatCheck
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# default
+.INCLUDE_DIRS = /usr/local/include
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+VSCODE_PID = 41273
+# variable set hash-table stats:
+# Load=63/1024=6%, Rehash=0, Collisions=1/77=1%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+
+# No files, no impossibilities in 0 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+/Users/lohithkonathala1/git/IB-Mars-Lander-cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=4/1024=0%, Rehash=0, Collisions=0/5=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4049 / max = 4049 / min = 4049 / avg = 4049
+
+# Finished Make data base on Sat Aug 28 17:37:02 2021
+
+ 
+make: *** /Users/lohithkonathala1/git/IB-Mars-Lander-cpp: Is a directory.  Stop.
+ 

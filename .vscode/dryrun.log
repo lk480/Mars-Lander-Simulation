@@ -1,0 +1,6 @@
+make -f "/Users/lohithkonathala1/git/IB-Mars-Lander-cpp" --dry-run --keep-going --print-directory
+make: Entering directory `/Users/lohithkonathala1/git/IB-Mars-Lander-cpp'
+make: Leaving directory `/Users/lohithkonathala1/git/IB-Mars-Lander-cpp'
+ 
+make: *** /Users/lohithkonathala1/git/IB-Mars-Lander-cpp: Is a directory.  Stop.
+ 
